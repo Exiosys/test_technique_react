@@ -40,8 +40,8 @@ En cas de problème, rélisez le sujet, faites de bonnes recherches et si jamais
 
 Rendu minimum du projet :
 
-![image-20201206140413332](/Users/brdnicolas/Library/Application Support/typora-user-images/image-20201206140413332.png)
+![image-20201206140413332](./render.png)
 
 Routes de l'API pouvant servir : 
 
-![image-20201206141106808](/Users/brdnicolas/Library/Application Support/typora-user-images/image-20201206141106808.png)
+![image-20201206141106808](./routes.png)
